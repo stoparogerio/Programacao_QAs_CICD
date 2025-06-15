@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "devDependencies": {
+    "mocha": "^11.2.2"
+  },
+  "dependencies": {
+    "package-name": "^0.1.0"
+  }
+}
